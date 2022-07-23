@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFF</color>
+
+    <color name="ic_launcher_background">#11224D</color>
+
+    <color name="sunny">#FE9C13</color>
+    <color name="cloudy">#01B3D7</color>
+    <color name="rainy">#003C69</color>
+    <color name="fog">#0CA98E</color>
+    <color name="snow">#61AFD6</color>
+    <color name="storm">#6A618C</color>
+</resources>

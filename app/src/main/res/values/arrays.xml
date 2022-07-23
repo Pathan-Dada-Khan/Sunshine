@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string-array name="settings_units_values">
+        <item>@string/format_temperature_celsius</item>
+        <item>@string/format_temperature_fahrenheit</item>
+    </string-array>
+
+    <string-array name="settings_units_labels">
+        <item>@string/celsius</item>
+        <item>@string/fahrenheit</item>
+    </string-array>
+    
+    <string-array name="week_days">
+        <item name="sunday">Sun</item>
+        <item name="monday">Mon</item>
+        <item name="tuesday">Tue</item>
+        <item name="wednesday">Wed</item>
+        <item name="thursday">Thu</item>
+        <item name="friday">Fri</item>
+        <item name="saturday">Sat</item>
+    </string-array>
+
+</resources>

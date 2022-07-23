@@ -1,0 +1,33 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Sunshine</string>
+
+    <string name="city">City</string>
+    <string name="location">Location</string>
+
+    <string name="today">Today</string>
+    <string name="tomorrow">Tomorrow</string>
+
+    <string name="details">Details</string>
+    <string name="sensible">Sensible</string>
+    <string name="humidity">Humidity</string>
+    <string name="speed">Speed</string>
+    <string name="pressure">Pressure</string>
+
+    <string name="format_temperature_celsius">\u2103</string>
+    <string name="format_temperature_fahrenheit">\u2109</string>
+    <string name="celsius">Celsius</string>
+    <string name="fahrenheit">Fahrenheit</string>
+
+    <string name="settings">Settings</string>
+    <string name="share">Share</string>
+
+    <string name="cities">Manage Cities</string>
+    <string name="temperature">Temperature</string>
+    <string name="notification">Notifications</string>
+    <string name="add_city">Add Citty</string>
+    <string name="current_location">CurrentLocation</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="country">country</string>
+    <string name="locality">locality</string>
+</resources>
