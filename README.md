@@ -9,15 +9,15 @@ Sunshine is a simple weather forecasting Android Application. It comes with stan
 # Screenshots - Weather
 
 <div class="row">
-  <img src="screenshots/Sunshine.jpg" width="300" />
-  <img src="screenshots/Location.jpg" width="300" />
-  <img src="screenshots/Details.jpg" width="300" />
+  <img src="screenshots/Sunshine.jpg" width="30%" />
+  <img src="screenshots/Location.jpg" width="30%" />
+  <img src="screenshots/Details.jpg" width="30%" />
 </div>
 
 # Add Cities and Share Weather
 
 <div class="row">
-  <img src="screenshots/Cities.jpg" width="300" />
-  <img src="screenshots/AddCities.jpg" width="300" />
-  <img src="screenshots/Share.jpg" width="300" />
+  <img src="screenshots/Cities.jpg" width="30%" />
+  <img src="screenshots/AddCities.jpg" width="30%" />
+  <img src="screenshots/Share.jpg" width="30%" />
 </div>
